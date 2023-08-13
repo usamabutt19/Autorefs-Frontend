@@ -1,0 +1,44 @@
+.applicantSlider {
+    position: fixed;
+    overflow-y: scroll;
+    right: 0;
+    top: 0;
+    margin-left: auto;
+    margin-right: 0;
+    background-color: #ffffff;
+    width: 41%;
+    height: 100%;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.16);
+        transition: all 1s ease;
+}
+
+.innerContainer {
+    padding: 85px;
+}
+.requestForm {
+    position: fixed;
+    overflow-y: scroll;
+    z-index: 1;
+    right: 0;
+    top: 0;
+    margin-left: auto;
+    margin-right: 0;
+    background-color: #ffffff;
+    width: 45%;
+    height: 100%;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.16);
+    transition: all 1s ease;
+}
+
+.questionPopup {
+    position: fixed;
+    right: 0;
+    top: 0;
+    margin-left: auto;
+    margin-right: 0;
+    background-color: #ffffff;
+    width: 45%;
+    height: 100%;
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.16);
+    transition: all 1s ease;
+}

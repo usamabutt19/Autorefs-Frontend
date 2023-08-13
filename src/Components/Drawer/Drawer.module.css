@@ -1,0 +1,33 @@
+.DrawerContainer {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  min-height: 100vh;
+  color: #fff;
+  padding: 4rem;
+  justify-content: space-between;
+}
+.item,
+.active {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-size: 1.25rem;
+  text-decoration: none;
+  column-gap: 30px;
+}
+.itemContainer,
+.drawerFooter {
+  margin-top: 96px;
+}
+.itemContainer > a:hover,
+.active {
+  opacity: 70%;
+}
+.active::after {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #1fcea5;
+}

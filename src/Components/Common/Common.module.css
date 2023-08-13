@@ -1,0 +1,19 @@
+.subBox {
+    background: #ffffff;
+    width: 100%;
+    margin-top: 70px;
+    border-radius: 20px;
+}
+.bullet {
+    margin-top: 25px;
+}
+
+.bullet::before {
+    content: "\2022";
+    color: #1fcea5;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-right: 1rem;
+    margin-left: -4em;
+}

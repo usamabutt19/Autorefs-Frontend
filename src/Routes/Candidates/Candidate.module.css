@@ -1,0 +1,22 @@
+.candidateContainer {
+    width: 100%;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    padding: 4rem;
+}
+
+.dashContainer {
+    background-color: #ffffff;
+    width: 100%;
+    height: 90%;
+    border-radius: 20px;
+    padding: 45px;
+}
+
+.candidateStyle {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    padding: 5px;
+}

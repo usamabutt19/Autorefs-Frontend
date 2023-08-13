@@ -1,0 +1,62 @@
+.LoginContainer {
+  width: 100%;
+  align-items: center;
+  padding-top: 6rem;
+  justify-content: center;
+}
+.ElGroup > h2,
+.registerBox > h2 {
+  font-size: 2.3125em;
+  font-weight: 800;
+}
+
+.buttonGrp {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+  margin-top: 2rem;
+}
+
+.ElGroup {
+  width: 100%;
+  max-width: 446px;
+  text-align: center;
+}
+
+.divider {
+  position: relative;
+  margin: 2rem auto;
+  text-align: center;
+  color: #6e6e6e;
+}
+
+.divider:before {
+  content: ' ';
+  display: block;
+  height: 1px;
+  width: 40%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  background: #6e6e6e;
+}
+
+.divider:after {
+  content: ' ';
+  height: 1px;
+  width: 40%;
+  background: #6e6e6e;
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 0;
+}
+.rich_p {
+  font-size: 21px;
+}
+
+.registerBox {
+  width: 100%;
+  max-width: 744px;
+  text-align: center;
+}

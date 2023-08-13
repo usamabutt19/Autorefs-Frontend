@@ -1,0 +1,17 @@
+.profileContainer {
+    width: 100%;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    padding: 4rem;
+}
+
+.editContainer {
+
+    background-color: #ffffff;
+    width: 645px;
+    height: 100%;
+        max-height: 645px;
+    margin-top: 100px;
+    border-radius: 20px;
+}

@@ -1,0 +1,138 @@
+.confirmationContainer {
+    font-size: 18px;
+    padding: 30px;
+}
+
+.outerContainer {
+    margin-top: 85px;
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 1155px;
+    border-radius: 20px;
+}
+
+.detailsContainer {
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 835px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 85px;
+}
+
+.details2Container {
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 1036px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 85px;
+}
+
+
+.stepsContainer {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    min-height: 100vh;
+    color: #ffffff;
+    padding: 4rem;
+}
+
+.signatureContainer {
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 625px;
+    height: 470px;
+    padding: 45px;
+    border-radius: 20px;
+    margin-top: 85px;
+}
+
+.thankyouContainer {
+    background-color: #ffffff;
+    width: 100%;
+    padding: 45px;
+    border-radius: 20px;
+    margin-top: 85px;
+    height: 90%;
+    max-height: 480px;
+}
+
+.items {
+
+    margin-top: 90px;
+    font-size: 20px;
+    color: #646464;
+
+}
+
+.items li {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    list-style: none;
+}
+
+.items li:before {
+    content: '\2022';
+    color: #fff;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-right: 1rem;
+    list-style: none;
+}
+
+.listItem {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.items .listItem:before {
+    content: '\2022';
+    color: #1FCEA5;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+.itemsDone {
+    color: #646464;
+    font-size: 20px;
+}
+
+.items .itemsDone:before {
+    content: '\2713';
+    color: #1FCEA5;
+    font-size: 1em;
+}
+
+
+
+.refContainer {
+    width: inherit;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    padding: 4rem;
+}
+
+.listStyle {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 700;
+    list-style: none;
+    color: #707070;
+}
+
+.listStyle li:before {
+    content: '✓';
+    margin-right: 1rem;
+    margin-left: -2rem;
+}

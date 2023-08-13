@@ -1,0 +1,13 @@
+<svg id="Group_28" data-name="Group 28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.623" height="22.347" viewBox="0 0 18.623 22.347">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.46" gradientTransform="translate(-0.1) scale(1.2 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7f7f7"/>
+      <stop offset="1" stop-color="#dfdfdf"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="2.325" gradientTransform="translate(0.423) scale(0.154 1)" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Group_27" data-name="Group 27">
+    <path id="Path_29" data-name="Path 29" d="M-12.483,1151.245a.457.457,0,0,1,.33.138l7.492,7.534v11.214a.477.477,0,0,1-.47.482H-8.216l-.022-5.425c-.012-2.849-1.478-3.447-2.706-3.447h-3.071c-1.234,0-2.7.6-2.7,3.462v5.41h-3.114a.477.477,0,0,1-.471-.482v-11.214l7.492-7.534a.456.456,0,0,1,.329-.138m0-1.49a1.945,1.945,0,0,0-1.386.577l-7.926,7.97v11.828a1.966,1.966,0,0,0,1.961,1.972h4.6v-6.9c0-1.089.133-1.972,1.215-1.972h3.071c1.08,0,1.211.878,1.216,1.964l.028,6.908h4.568a1.966,1.966,0,0,0,1.96-1.972V1158.3l-7.925-7.97A1.946,1.946,0,0,0-12.483,1149.755Z" transform="translate(21.794 -1149.755)" fill="url(#radial-gradient)"/>
+  </g>
+  <path id="Path_30" data-name="Path 30" d="M-6.855,1179.245h-8.194a.745.745,0,0,1-.745-.745.745.745,0,0,1,.745-.745h8.194a.744.744,0,0,1,.745.745A.745.745,0,0,1-6.855,1179.245Z" transform="translate(20.263 -1156.897)" fill="url(#radial-gradient-2)"/>
+</svg>

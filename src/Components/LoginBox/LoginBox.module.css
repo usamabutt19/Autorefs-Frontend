@@ -1,0 +1,21 @@
+.LoginBox {
+  display: flex;
+  margin: 0 auto;
+  border-radius: 1rem;
+  width: 100%;
+  padding: 1rem;
+  max-width: 795px;
+  height: 866px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #fff;
+  box-sizing: border-box;
+  filter: drop-shadow(6, 4, 6, #00000033);
+}
+.LoginBox > * {
+  margin-bottom: auto;
+}
+.LoginBox > img {
+  margin-top: 4.8125em;
+}

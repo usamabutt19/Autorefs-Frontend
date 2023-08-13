@@ -1,0 +1,11 @@
+<svg id="Group_24" data-name="Group 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17.878" height="20.858" viewBox="0 0 17.878 20.858">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.451" gradientTransform="translate(-0.132) scale(1.263 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7f7f7"/>
+      <stop offset="1" stop-color="#dfdfdf"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.449" gradientTransform="translate(-0.139) scale(1.278 1)" xlink:href="#radial-gradient"/>
+  </defs>
+  <path id="Path_24" data-name="Path 24" d="M-18.421,1325.221h-2.128a.745.745,0,0,1-.745-.745v-16.388a.745.745,0,0,1,.745-.745H-7.886a.744.744,0,0,1,.745.745v1.557a.744.744,0,0,1-.745.745.745.745,0,0,1-.745-.745v-.812H-19.8v14.9h1.383a.744.744,0,0,1,.745.745A.745.745,0,0,1-18.421,1325.221Z" transform="translate(21.294 -1307.343)" fill="url(#radial-gradient)"/>
+  <path id="Path_25" data-name="Path 25" d="M-2.63,1329.476H-14.549a.745.745,0,0,1-.745-.745v-15.643a.745.745,0,0,1,.745-.745H-2.63a.744.744,0,0,1,.745.745v15.643A.745.745,0,0,1-2.63,1329.476Zm-11.174-1.49H-3.375v-14.153H-13.8Z" transform="translate(19.763 -1308.618)" fill="url(#radial-gradient-2)"/>
+</svg>

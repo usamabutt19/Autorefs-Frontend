@@ -1,0 +1,88 @@
+.dashContainer {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  padding: 4rem;
+}
+
+.dashContent {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.applicantsContent {
+  display: flex;
+  gap: 1.313rem;
+  margin-top: 4.563rem;
+}
+
+.teamInput {
+  background-color: transparent;
+  border: none;
+  font-size: 18px;
+  line-height: 18px;
+}
+
+.teamInput:focus {
+  border: none;
+  outline: none;
+}
+
+.applicantsContentp {
+  display: flex;
+  font-size: 1.188rem;
+  gap: 1.313rem;
+  justify-content: right;
+  margin-bottom: 2rem;
+}
+
+.whiteBox {
+  height: 100%;
+  background-color: #fff;
+  overflow-y: scroll;
+  border-radius: 20px;
+  filter: drop-shadow(6px 4px 6px #00000005);
+}
+
+.whiteBox::-webkit-scrollbar-track {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.cardContainer h2 {
+  font-size: 2.15rem;
+}
+
+.cardContainer p>strong {
+  display: block;
+  font-size: 1.125rem;
+  margin-bottom: 1rem;
+}
+
+.cardContainer * {
+  margin: 0;
+}
+.settingPage {
+  background: #ffffff;
+  padding: 50px;
+  width: 100%;
+  margin-top: 40px;
+  border-radius: 20px;
+}
+.applicantStyle {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 15px;
+  border: thin solid;
+    border-color: #fff;
+}
+
+.applicantStyle:hover {
+  border-color: #1FCEA5
+}
+

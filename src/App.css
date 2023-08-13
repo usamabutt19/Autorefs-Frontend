@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.AppContainer {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f6f8f9;
+    color: #2B2B2B;
+}
+.left-icon {
+  margin-right: 1rem;
+}
+
+img:hover {
+  cursor: pointer;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #1FCEA5;
+  border-radius: 5px 0 0 5px;
+}
